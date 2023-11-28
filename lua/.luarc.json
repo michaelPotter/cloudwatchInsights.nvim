@@ -1,0 +1,8 @@
+{
+    "workspace.library": [
+        "/home/mlpotter/.local/share/nvim/lazy/neodev.nvim/types/stable",
+        "/usr/share/nvim/runtime/lua",
+        "/home/mlpotter/src/cloudwatchInsights.nvim/lua",
+        "${3rd}/luv/library"
+    ]
+}
